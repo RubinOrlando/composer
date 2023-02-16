@@ -31,7 +31,7 @@ matplotlib==2.2.2
 mccabe==0.6.1
 mido==1.2.6
 mir-eval==0.4
-numba==0.38.0
+numba==0.49.0
 numpy==1.14.3
 packaging==17.1
 pandas==0.22.0
@@ -51,7 +51,7 @@ python-rtmidi==1.1.0
 pytz==2018.4
 PyYAML==4.2b4
 resampy==0.2.0
-scikit-learn==0.19.1
+scikit-learn==0.24.2
 scipy==1.1.0
 simplegeneric==0.8.1
 six==1.11.0
