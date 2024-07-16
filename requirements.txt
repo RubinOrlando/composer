@@ -65,3 +65,4 @@ urwid==2.0.1
 wcwidth==0.1.7
 Werkzeug==0.14.1
 wrapt==1.10.11
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
